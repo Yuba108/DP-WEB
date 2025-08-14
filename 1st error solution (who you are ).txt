@@ -1,0 +1,6 @@
+git config --global user.name "Your Name"        // GitHub user name or any else
+git config --global user.email "your@email.com"  // git hub associated email
+
+
+to see your info:
+git config --global --list
