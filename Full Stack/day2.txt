@@ -1,0 +1,13 @@
+Patch 
+
+put
+
+facebook : 
+ edit Profile 
+  email (basnetmanish@gmail.com)-->hello@gmail.com
+  password - 
+ Edit Profile
+
+git add . 
+git commit -m "message Here"
+git push 
